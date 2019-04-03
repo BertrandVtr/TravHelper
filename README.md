@@ -1,6 +1,10 @@
 # TravHelper
 
-_Mobile application to help you plan your travels_
+_Mobile application to help you plan your travels._
+
+## Tech stack
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1NDIzOTQwLC00NTQ4MjAzMTBdfQ==
+eyJoaXN0b3J5IjpbNzM4NjA5MzAyLC00NTQ4MjAzMTBdfQ==
 -->
