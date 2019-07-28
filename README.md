@@ -6,5 +6,6 @@ _Mobile application to help you plan your travels._
 
 For this project, we will use Ionic for the mobile app and Firebase for the backend.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA5Nzg4NzQsLTQ1NDgyMDMxMF19
+eyJoaXN0b3J5IjpbMTEwNDI2NTM4NCwtMTEzMDk3ODg3NCwtND
+U0ODIwMzEwXX0=
 -->
